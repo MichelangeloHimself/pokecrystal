@@ -1,6 +1,6 @@
 	db "GENETIC@" ; species name
-	dw 607, 2690 ; height, weight
-
+	dw 200, 1220 ; height, weight
+	; METRIC
 	db   "Said to rest qui-"
 	next "etly in an"
 	next "undiscovered cave,"

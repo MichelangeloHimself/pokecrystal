@@ -1,6 +1,6 @@
 	db "HUMANSHAPE@" ; species name
-	dw 407, 900 ; height, weight
-
+	dw 140, 406 ; height, weight
+	; METRIC
 	db   "It has several"
 	next "different cry pat-"
 	next "terns, each of"

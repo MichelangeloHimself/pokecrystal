@@ -1,6 +1,6 @@
 	db "ARMOR@" ; species name
-	dw 307, 2650 ; height, weight
-
+	dw 110, 1200 ; height, weight
+	; METRIC
 	db   "Because this"
 	next "#MON's skin is"
 	next "so tough, a normal"

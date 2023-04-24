@@ -1,6 +1,6 @@
 	db "BIVALVE@" ; species name
-	dw 100, 90 ; height, weight
-
+	dw 030, 040 ; height, weight
+	; METRIC
 	db   "Clamping on to an"
 	next "opponent reveals"
 	next "its vulnerable"

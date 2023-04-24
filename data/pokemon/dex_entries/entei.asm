@@ -1,6 +1,6 @@
 	db "VOLCANO@" ; species name
-	dw 607, 4370 ; height, weight
-
+	dw 210, 1980 ; height, weight
+	; METRIC
 	db   "This brawny"
 	next "#MON courses"
 	next "around the earth,"

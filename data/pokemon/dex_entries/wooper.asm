@@ -1,6 +1,6 @@
 	db "WATER FISH@" ; species name
-	dw 104, 190 ; height, weight
-
+	dw 040, 085 ; height, weight
+	; METRIC
 	db   "A mucous"
 	next "membrane covers"
 	next "its body. Touching"

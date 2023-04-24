@@ -1,6 +1,6 @@
 	db "RAT@" ; species name
-	dw 100, 80 ; height, weight
-
+	dw 030, 035 ; height, weight
+	; METRIC
 	db   "This #MON's"
 	next "impressive vital-"
 	next "ity allows it to"

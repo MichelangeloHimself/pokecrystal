@@ -1,6 +1,6 @@
 	db "PATIENT@" ; species name
-	dw 403, 630 ; height, weight
-
+	dw 130, 285 ; height, weight
+	; METRIC
 	db   "In order to con-"
 	next "ceal its black"
 	next "tail, it lives in"

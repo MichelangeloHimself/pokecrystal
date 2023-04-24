@@ -1,6 +1,6 @@
 	db "SUPERPOWER@" ; species name
-	dw 503, 2870 ; height, weight
-
+	dw 160, 1300 ; height, weight
+	; METRIC
 	db   "With four arms"
 	next "that react more"
 	next "quickly than it"

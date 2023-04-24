@@ -1,6 +1,6 @@
 	db "SHADOW@" ; species name
-	dw 411, 890 ; height, weight
-
+	dw 150, 405 ; height, weight
+	; METRIC
 	db   "Hiding in people's"
 	next "shadows at night,"
 	next "it absorbs their"

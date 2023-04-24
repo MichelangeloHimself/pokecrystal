@@ -1,6 +1,6 @@
 	db "LAND SNAKE@" ; species name
-	dw 411, 310 ; height, weight
-
+	dw 150, 140 ; height, weight
+	; METRIC
 	db   "It hides deep"
 	next "inside caves where"
 	next "no light ever"

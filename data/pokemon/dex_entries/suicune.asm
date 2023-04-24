@@ -1,6 +1,6 @@
 	db "AURORA@" ; species name
-	dw 607, 4120 ; height, weight
-
+	dw 200, 1870 ; height, weight
+	; METRIC
 	db   "This divine"
 	next "#MON blows"
 	next "around the world,"

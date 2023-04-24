@@ -1,6 +1,6 @@
 	db "FIRE HORSE@" ; species name
-	dw 507, 2090 ; height, weight
-
+	dw 170, 950 ; height, weight
+	; METRIC
 	db   "It just loves to"
 	next "gallop. The faster"
 	next "it goes, the long-"

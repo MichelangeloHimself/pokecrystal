@@ -1,6 +1,6 @@
 	db "BAT@" ; species name
-	dw 207, 170 ; height, weight
-
+	dw 080, 075 ; height, weight
+	; METRIC
 	db   "During the day, it"
 	next "gathers with"
 	next "others and hangs"

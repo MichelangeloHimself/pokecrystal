@@ -1,6 +1,6 @@
 	db "RAINBOW@" ; species name
-	dw 1206, 4390 ; height, weight
-
+	dw 380, 1990 ; height, weight
+	; METRIC
 	db   "It will reveal"
 	next "itself before a"
 	next "pure-hearted"

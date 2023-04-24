@@ -1,6 +1,6 @@
 	db "BALL@" ; species name
-	dw 108, 230 ; height, weight
-
+	dw 050, 104 ; height, weight
+	; METRIC
 	db   "During the study"
 	next "of this #MON,"
 	next "it was discovered"

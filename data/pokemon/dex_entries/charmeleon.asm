@@ -1,6 +1,6 @@
 	db "FLAME@" ; species name
-	dw 307, 420 ; height, weight
-
+	dw 110, 190 ; height, weight
+	; METRIC
 	db   "If it becomes"
 	next "agitated during"
 	next "battle, it spouts"

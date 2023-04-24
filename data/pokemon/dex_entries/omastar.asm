@@ -1,6 +1,6 @@
 	db "SPIRAL@" ; species name
-	dw 303, 770 ; height, weight
-
+	dw 100, 350 ; height, weight
+	; METRIC
 	db   "Its heavy shell"
 	next "allowed it to"
 	next "reach only nearby"

@@ -1,6 +1,6 @@
 	db "FLAME@" ; species name
-	dw 607, 1320 ; height, weight
-
+	dw 200, 600 ; height, weight
+	; METRIC
 	db   "Legendary bird"
 	next "#MON. It is"
 	next "said to migrate"

@@ -1,6 +1,6 @@
 	db "EGG@" ; species name
-	dw 104, 60 ; height, weight
-
+	dw 040, 025 ; height, weight
+	; METRIC
 	db   "If even one is"
 	next "separated from the"
 	next "group, the energy"

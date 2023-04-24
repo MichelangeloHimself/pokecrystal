@@ -1,6 +1,6 @@
 	db "BEAK@" ; species name
-	dw 311, 840 ; height, weight
-
+	dw 120, 380 ; height, weight
+	; METRIC
 	db   "It uses its long"
 	next "beak to attack. It"
 	next "has a surprisingly"

@@ -1,6 +1,6 @@
 	db "FOSSIL@" ; species name
-	dw 511, 1300 ; height, weight
-
+	dw 180, 590 ; height, weight
+	; METRIC
 	db   "In prehistoric"
 	next "times, this"
 	next "#MON flew"

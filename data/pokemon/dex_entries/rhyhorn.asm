@@ -1,6 +1,6 @@
 	db "SPIKES@" ; species name
-	dw 303, 2540 ; height, weight
-
+	dw 100, 1150 ; height, weight
+	; METRIC
 	db   "It can remember"
 	next "only one thing at"
 	next "a time. Once it"

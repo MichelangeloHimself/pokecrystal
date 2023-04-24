@@ -1,6 +1,6 @@
 	db "HANDSTAND@" ; species name
-	dw 407, 1060 ; height, weight
-
+	dw 140, 480 ; height, weight
+	; METRIC
 	db   "After doing a"
 	next "handstand to"
 	next "throw off the"

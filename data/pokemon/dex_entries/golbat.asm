@@ -1,6 +1,6 @@
 	db "BAT@" ; species name
-	dw 503, 1210 ; height, weight
-
+	dw 160, 550 ; height, weight
+	; METRIC
 	db   "When it plunges"
 	next "its fangs into its"
 	next "prey, it instantly"

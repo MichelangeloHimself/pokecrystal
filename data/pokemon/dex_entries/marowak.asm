@@ -1,6 +1,6 @@
 	db "BONEKEEPER@" ; species name
-	dw 303, 990 ; height, weight
-
+	dw 100, 450 ; height, weight
+	; METRIC
 	db   "Somewhere in the"
 	next "world is a ceme-"
 	next "tery just for"

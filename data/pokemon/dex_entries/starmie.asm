@@ -1,6 +1,6 @@
 	db "MYSTERIOUS@" ; species name
-	dw 307, 1760 ; height, weight
-
+	dw 110, 800 ; height, weight
+	; METRIC
 	db   "It is said that it"
 	next "uses the seven-"
 	next "colored core of"

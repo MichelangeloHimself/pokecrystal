@@ -1,6 +1,6 @@
 	db "ROYAL@" ; species name
-	dw 607, 1750 ; height, weight
-
+	dw 200, 795 ; height, weight
+	; METRIC
 	db   "Every time it ya-"
 	next "wns, SHELLDER"
 	next "injects more poi-"

@@ -1,6 +1,6 @@
 	db "SCRATCHCAT@" ; species name
-	dw 104, 90 ; height, weight
-
+	dw 040, 042 ; height, weight
+	; METRIC
 	db   "It loves things"
 	next "that sparkle. When"
 	next "it sees a shiny"

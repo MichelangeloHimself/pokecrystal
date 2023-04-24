@@ -1,6 +1,6 @@
 	db "SUN@" ; species name
-	dw 207, 190 ; height, weight
-
+	dw 080, 085 ; height, weight
+	; METRIC
 	db   "As the hot season"
 	next "approaches, the"
 	next "petals on this"

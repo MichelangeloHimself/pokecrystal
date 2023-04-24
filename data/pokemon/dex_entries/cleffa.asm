@@ -1,6 +1,6 @@
 	db "STARSHAPE@" ; species name
-	dw 100, 70 ; height, weight
-
+	dw 030, 030 ; height, weight
+	; METRIC
 	db   "If the impact site"
 	next "of a meteorite is"
 	next "found, this"

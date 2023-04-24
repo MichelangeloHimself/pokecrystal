@@ -1,6 +1,6 @@
 	db "TRIPLEBIRD@" ; species name
-	dw 511, 1880 ; height, weight
-
+	dw 180, 852 ; height, weight
+	; METRIC
 	db   "An enemy that"
 	next "takes its eyes off"
 	next "any of the three"

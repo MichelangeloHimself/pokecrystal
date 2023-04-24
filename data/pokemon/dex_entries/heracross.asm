@@ -1,6 +1,6 @@
 	db "SINGLEHORN@" ; species name
-	dw 411, 1190 ; height, weight
-
+	dw 150, 540 ; height, weight
+	; METRIC
 	db   "With its Herculean"
 	next "powers, it can"
 	next "easily throw arou-"

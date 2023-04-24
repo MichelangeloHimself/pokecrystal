@@ -1,6 +1,6 @@
 	db "COTTONWEED@" ; species name
-	dw 207, 70 ; height, weight
-
+	dw 080, 030 ; height, weight
+	; METRIC
 	db   "Even in the fierc-"
 	next "est wind, it can"
 	next "control its fluff"

@@ -1,6 +1,6 @@
 	db "LIZARD@" ; species name
-	dw 200, 190 ; height, weight
-
+	dw 060, 085 ; height, weight
+	; METRIC
 	db   "If it's healthy,"
 	next "the flame on the"
 	next "tip of its tail"

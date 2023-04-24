@@ -1,6 +1,6 @@
 	db "MAGNET@" ; species name
-	dw 100, 130 ; height, weight
-
+	dw 030, 060 ; height, weight
+	; METRIC
 	db   "The electricity"
 	next "emitted by the"
 	next "units on each side"

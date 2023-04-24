@@ -1,6 +1,6 @@
 	db "VOLCANO@" ; species name
-	dw 211, 420 ; height, weight
-
+	dw 090, 190 ; height, weight
+	; METRIC
 	db   "Before battle, it"
 	next "turns its back on"
 	next "its opponent to"

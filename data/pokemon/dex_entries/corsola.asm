@@ -1,6 +1,6 @@
 	db "CORAL@" ; species name
-	dw 200, 110 ; height, weight
-
+	dw 060, 050 ; height, weight
+	; METRIC
 	db   "The points on its"
 	next "head absorb"
 	next "nutrients from"

@@ -1,6 +1,6 @@
 	db "TURTLE@" ; species name
-	dw 303, 500 ; height, weight
-
+	dw 100, 225 ; height, weight
+	; METRIC
 	db   "Its long, furry"
 	next "tail is a symbol"
 	next "of longevity,"

@@ -1,6 +1,6 @@
 	db "SEED@" ; species name
-	dw 303, 290 ; height, weight
-
+	dw 100, 130 ; height, weight
+	; METRIC
 	db   "The bulb on its"
 	next "back grows as it"
 	next "absorbs nutrients."

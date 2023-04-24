@@ -1,6 +1,6 @@
 	db "SHELLFISH@" ; species name
-	dw 108, 250 ; height, weight
-
+	dw 050, 115 ; height, weight
+	; METRIC
 	db   "Three hundred"
 	next "million years ago,"
 	next "it hid on the sea"

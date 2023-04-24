@@ -1,6 +1,6 @@
 	db "COCONUT@" ; species name
-	dw 607, 2650 ; height, weight
-
+	dw 200, 1200 ; height, weight
+	; METRIC
 	db   "Living in a good"
 	next "environment makes"
 	next "it grow lots of"

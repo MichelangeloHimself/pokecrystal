@@ -1,6 +1,6 @@
 	db "TADPOLE@" ; species name
-	dw 303, 440 ; height, weight
-
+	dw 100, 200 ; height, weight
+	; METRIC
 	db   "Though it is"
 	next "skilled at walk-"
 	next "ing, it prefers to"

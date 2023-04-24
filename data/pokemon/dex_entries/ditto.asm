@@ -1,6 +1,6 @@
 	db "TRANSFORM@" ; species name
-	dw 100, 90 ; height, weight
-
+	dw 030, 040 ; height, weight
+	; METRIC
 	db   "When it encount-"
 	next "ers another DITTO,"
 	next "it will move"

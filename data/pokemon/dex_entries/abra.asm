@@ -1,6 +1,6 @@
 	db "PSI@" ; species name
-	dw 211, 430 ; height, weight
-
+	dw 090, 195 ; height, weight
+	; METRIC
 	db   "It hypnotizes"
 	next "itself so that it"
 	next "can teleport away"

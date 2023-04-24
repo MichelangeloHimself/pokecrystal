@@ -1,6 +1,6 @@
 	db "MUSHROOM@" ; species name
-	dw 100, 120 ; height, weight
-
+	dw 030, 054 ; height, weight
+	; METRIC
 	db   "The tochukaso"
 	next "growing on this"
 	next "#MON's back"

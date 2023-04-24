@@ -1,6 +1,6 @@
 	db "ELECTRIC@" ; species name
-	dw 503, 1160 ; height, weight
-
+	dw 160, 526 ; height, weight
+	; METRIC
 	db   "Legendary bird"
 	next "#MON. They say"
 	next "lightning caused"

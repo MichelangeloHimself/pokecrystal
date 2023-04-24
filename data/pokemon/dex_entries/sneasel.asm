@@ -1,6 +1,6 @@
 	db "SHARP CLAW@" ; species name
-	dw 211, 620 ; height, weight
-
+	dw 090, 280 ; height, weight
+	; METRIC
 	db   "This cunning"
 	next "#MON hides"
 	next "under the cover"

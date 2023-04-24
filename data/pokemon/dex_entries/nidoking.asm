@@ -1,6 +1,6 @@
 	db "DRILL@" ; species name
-	dw 407, 1370 ; height, weight
-
+	dw 140, 620 ; height, weight
+	; METRIC
 	db   "It uses its thick"
 	next "arms, legs and"
 	next "tail to attack"

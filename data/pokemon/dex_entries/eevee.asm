@@ -1,6 +1,6 @@
 	db "EVOLUTION@" ; species name
-	dw 100, 140 ; height, weight
-
+	dw 030, 065 ; height, weight
+	; METRIC
 	db   "Its ability to"
 	next "evolve into many"
 	next "forms allows it to"

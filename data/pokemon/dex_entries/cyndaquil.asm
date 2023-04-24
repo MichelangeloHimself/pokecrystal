@@ -1,6 +1,6 @@
 	db "FIRE MOUSE@" ; species name
-	dw 108, 170 ; height, weight
-
+	dw 050, 079 ; height, weight
+	; METRIC
 	db   "The fire that"
 	next "spouts from its"
 	next "back burns hottest"

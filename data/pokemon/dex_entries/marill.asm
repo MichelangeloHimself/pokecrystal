@@ -1,6 +1,6 @@
 	db "AQUAMOUSE@" ; species name
-	dw 104, 190 ; height, weight
-
+	dw 040, 085 ; height, weight
+	; METRIC
 	db   "The fur on its"
 	next "body naturally"
 	next "repels water. It"

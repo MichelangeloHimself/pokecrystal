@@ -1,6 +1,6 @@
 	db "FROG@" ; species name
-	dw 307, 750 ; height, weight
-
+	dw 110, 339 ; height, weight
+	; METRIC
 	db   "When it expands"
 	next "its throat to"
 	next "croak out a tune,"

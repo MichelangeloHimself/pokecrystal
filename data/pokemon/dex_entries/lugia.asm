@@ -1,6 +1,6 @@
 	db "DIVING@" ; species name
-	dw 1701, 4760 ; height, weight
-
+	dw 520, 2160 ; height, weight
+	; METRIC
 	db   "It has an incred-"
 	next "ible ability to"
 	next "calm raging sto-"

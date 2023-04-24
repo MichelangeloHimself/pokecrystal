@@ -1,6 +1,6 @@
 	db "FISH@" ; species name
-	dw 211, 220 ; height, weight
-
+	dw 090, 100 ; height, weight
+	; METRIC
 	db   "This weak and"
 	next "pathetic #MON"
 	next "gets easily pushed"

@@ -1,6 +1,6 @@
 	db "DRAGON@" ; species name
-	dw 511, 3350 ; height, weight
-
+	dw 180, 1520 ; height, weight
+	; METRIC
 	db   "It stores energy"
 	next "by sleeping at"
 	next "underwater depths"

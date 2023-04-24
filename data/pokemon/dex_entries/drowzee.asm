@@ -1,6 +1,6 @@
 	db "HYPNOSIS@" ; species name
-	dw 303, 710 ; height, weight
-
+	dw 100, 324 ; height, weight
+	; METRIC
 	db   "When it twitches"
 	next "its nose, it can"
 	next "tell where someone"

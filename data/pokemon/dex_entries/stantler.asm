@@ -1,6 +1,6 @@
 	db "BIG HORN@" ; species name
-	dw 407, 1570 ; height, weight
-
+	dw 140, 712 ; height, weight
+	; METRIC
 	db   "The round balls"
 	next "found on the"
 	next "fallen antlers can"

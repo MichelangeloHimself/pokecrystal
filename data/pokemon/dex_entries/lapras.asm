@@ -1,6 +1,6 @@
 	db "TRANSPORT@" ; species name
-	dw 802, 4850 ; height, weight
-
+	dw 250, 2200 ; height, weight
+	; METRIC
 	db   "This gentle"
 	next "#MON loves to"
 	next "give people rides"

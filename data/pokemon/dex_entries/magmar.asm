@@ -1,6 +1,6 @@
 	db "SPITFIRE@" ; species name
-	dw 403, 980 ; height, weight
-
+	dw 130, 445 ; height, weight
+	; METRIC
 	db   "It moves more"
 	next "frequently in hot"
 	next "areas. It can heal"

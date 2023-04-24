@@ -1,6 +1,6 @@
 	db "MOLE@" ; species name
-	dw 8, 20 ; height, weight
-
+	dw 020, 008 ; height, weight
+	; METRIC
 	db   "It digs under-"
 	next "ground and chews"
 	next "on tree roots,"
