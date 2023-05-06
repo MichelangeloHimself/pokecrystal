@@ -1,6 +1,6 @@
 	db "WOOL@" ; species name
-	dw 008, 133 ; height, weight
-	; METRIC
+	dw 080, 133 ; height, weight
+	
 	db   "Because of its"
 	next "rubbery, electric-"
 	next "ity-resistant"

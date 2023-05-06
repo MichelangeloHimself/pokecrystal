@@ -1,6 +1,6 @@
 	db "BAGWORM@" ; species name
-	dw 120, 1285 ; height, weight
-	; METRIC
+	dw 120, 1258 ; height, weight
+	
 	db   "Usually found"
 	next "hanging on to a"
 	next "fat tree trunk. It"

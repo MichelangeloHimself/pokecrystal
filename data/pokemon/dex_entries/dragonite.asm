@@ -1,6 +1,6 @@
 	db "DRAGON@" ; species name
-	dw 220, 210 ; height, weight
-	; METRIC
+	dw 220, 2100 ; height, weight
+	
 	db   "It is said that"
 	next "somewhere in the"
 	next "ocean lies an"
